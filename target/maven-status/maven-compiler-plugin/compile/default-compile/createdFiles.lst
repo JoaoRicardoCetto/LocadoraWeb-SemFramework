@@ -1,0 +1,5 @@
+util\PersistenceUtil.class
+model\application\AtorApplication.class
+controller\AtorController.class
+TesteConexao.class
+model\domain\Ator.class
